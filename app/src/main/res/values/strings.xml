@@ -8,6 +8,7 @@
     <string name="btnSubmit">Submit</string>
     <string name="btnCancel">Cancel</string>
     <string name="cbAgreement">I agree to terms and conditions</string>
+    <string name="addText"></string>
 
     <string-array name="years">
         <item></item>
